@@ -1,0 +1,8 @@
+C:\projects\Chalk\src\Chalk\ChalkTest\bin\Debug\ChalkTest.exe.config
+C:\projects\Chalk\src\Chalk\ChalkTest\bin\Debug\ChalkTest.exe
+C:\projects\Chalk\src\Chalk\ChalkTest\bin\Debug\ChalkTest.pdb
+C:\projects\Chalk\src\Chalk\ChalkTest\bin\Debug\Chalk.dll
+C:\projects\Chalk\src\Chalk\ChalkTest\bin\Debug\Chalk.pdb
+C:\projects\Chalk\src\Chalk\ChalkTest\obj\Debug\ChalkTest.exe
+C:\projects\Chalk\src\Chalk\ChalkTest\obj\Debug\ChalkTest.pdb
+C:\projects\Chalk\src\Chalk\ChalkTest\obj\Debug\ChalkTest.csprojResolveAssemblyReference.cache

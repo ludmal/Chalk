@@ -1,0 +1,4 @@
+C:\projects\Chalk\src\Chalk\Chalk\bin\Debug\Chalk.dll
+C:\projects\Chalk\src\Chalk\Chalk\bin\Debug\Chalk.pdb
+C:\projects\Chalk\src\Chalk\Chalk\obj\Debug\Chalk.dll
+C:\projects\Chalk\src\Chalk\Chalk\obj\Debug\Chalk.pdb
