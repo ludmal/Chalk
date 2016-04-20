@@ -1,7 +1,0 @@
-C:\projects\Chalk\src\Chalk\TestChalk\bin\Debug\TestChalk.dll
-C:\projects\Chalk\src\Chalk\TestChalk\bin\Debug\TestChalk.pdb
-C:\projects\Chalk\src\Chalk\TestChalk\bin\Debug\Chalk.dll
-C:\projects\Chalk\src\Chalk\TestChalk\bin\Debug\Chalk.pdb
-C:\projects\Chalk\src\Chalk\TestChalk\obj\Debug\TestChalk.csprojResolveAssemblyReference.cache
-C:\projects\Chalk\src\Chalk\TestChalk\obj\Debug\TestChalk.dll
-C:\projects\Chalk\src\Chalk\TestChalk\obj\Debug\TestChalk.pdb
