@@ -1,6 +1,6 @@
 Chalk - Simple library to output console text in different colors
 =====================================================================
 
-Nuget install::
+Nuget install
 
-    pip install scrapy
+    Install-Package Chalk
